@@ -1,0 +1,7 @@
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\obj\Debug\Lista1-Edipo.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\obj\Debug\Lista1-Edipo.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\bin\Debug\Lista1-Edipo.exe.config
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\bin\Debug\Lista1-Edipo.exe
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\bin\Debug\Lista1-Edipo.pdb
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\obj\Debug\Lista1-Edipo.exe
+C:\Users\BR\source\repos\Lista1-Edipo\Lista1-Edipo\obj\Debug\Lista1-Edipo.pdb
